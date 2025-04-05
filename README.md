@@ -17,3 +17,6 @@ Since these are not supported during server-side rendering, we must explicitly t
 
 ```js
 "use client";
+
+
+## for writing backend create a folder api inside app
