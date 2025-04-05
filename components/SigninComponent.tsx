@@ -1,3 +1,4 @@
+import { Button } from "./Button";
 export const SigninComponent = () => {
     return (
         <div>
@@ -6,7 +7,8 @@ export const SigninComponent = () => {
               <div>
               <LabelInput label="Email" placeholder="email" />
               <LabelInput label="password" placeholder="password" />
-              </div>
+              <Button />
+             </div>
         </div>
         
       );
