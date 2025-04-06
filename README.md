@@ -6,7 +6,7 @@ Files inside the `(auth)` directory are ignored by Next.js during routing. They'
 ---
 
 ## 🧠 Understanding `"use client"`
-
+A
 In Next.js (App Router), some features are exclusive to the client side, such as:
 
 - `useState`
