@@ -1,7 +1,8 @@
+import { AppBar } from "./component/AppBar";
 export default function Home() {
   return (
     <div>
-      hii there
+     <AppBar />
     </div>
     
   );
